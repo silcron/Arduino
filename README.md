@@ -5,5 +5,5 @@ For Adventure design class
 We're making a program
 
 
-##LET'S
+#LET'S GO
 GO ARDUINO
